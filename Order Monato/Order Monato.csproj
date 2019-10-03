@@ -176,10 +176,14 @@
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="App_Start\WebApiConfig.cs" />
+    <Compile Include="BusinessObjectServices\IOfferManagementBo.cs" />
+    <Compile Include="BusinessObjects\OfferManagementBo.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\OffersController.cs" />
     <Compile Include="Controllers\StudentController.cs" />
     <Compile Include="DAL\DbInitializer.cs" />
     <Compile Include="DAL\OrderMonatoContext.cs" />
+    <Compile Include="Flags\Flags.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -187,9 +191,15 @@
     <Compile Include="Migrations\201909301743121_initial.Designer.cs">
       <DependentUpon>201909301743121_initial.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201910031830282_Added offer table.cs" />
+    <Compile Include="Migrations\201910031830282_Added offer table.Designer.cs">
+      <DependentUpon>201910031830282_Added offer table.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Course.cs" />
+    <Compile Include="Models\DTOs\OfferDto.cs" />
     <Compile Include="Models\Enrollment.cs" />
+    <Compile Include="Models\Entities\Offer.cs" />
     <Compile Include="Models\Student.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -252,6 +262,9 @@
   <ItemGroup>
     <EmbeddedResource Include="Migrations\201909301743121_initial.resx">
       <DependentUpon>201909301743121_initial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201910031830282_Added offer table.resx">
+      <DependentUpon>201910031830282_Added offer table.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>

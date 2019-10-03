@@ -96,7 +96,6 @@ C:\Users\dipak\Source\Repos\Monato\Order Monato\Order Monato\bin\Microsoft.AI.De
 C:\Users\dipak\Source\Repos\Monato\Order Monato\Order Monato\bin\Microsoft.AI.WindowsServer.xml
 C:\Users\dipak\Source\Repos\Monato\Order Monato\Order Monato\bin\Microsoft.AI.Web.xml
 C:\Users\dipak\Source\Repos\Monato\Order Monato\Order Monato\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\dipak\Source\Repos\Monato\Order Monato\Order Monato\obj\Debug\Order Monato.csprojAssemblyReference.cache
 C:\Users\dipak\Source\Repos\Monato\Order Monato\Order Monato\obj\Debug\Order Monato.csproj.CoreCompileInputs.cache
 C:\Users\dipak\Source\Repos\Monato\Order Monato\Order Monato\obj\Debug\Order Monato.csproj.CopyComplete
 C:\Users\dipak\Source\Repos\Monato\Order Monato\Order Monato\obj\Debug\Order Monato.dll
@@ -107,3 +106,5 @@ C:\Users\dipak\Source\Repos\Monato\Order Monato\Order Monato\bin\MySql.Data.xml
 C:\Users\dipak\Source\Repos\Monato\Order Monato\Order Monato\bin\MySql.Data.Entity.EF6.xml
 C:\Users\dipak\Source\Repos\Monato\Order Monato\Order Monato\obj\Debug\Order_Monato.Migrations.initial.resources
 C:\Users\dipak\Source\Repos\Monato\Order Monato\Order Monato\obj\Debug\Order Monato.csproj.GenerateResource.cache
+C:\Users\dipak\Source\Repos\Monato\Order Monato\Order Monato\obj\Debug\Order_Monato.Migrations.Addedoffertable.resources
+C:\Users\dipak\Source\Repos\Monato\Order Monato\Order Monato\obj\Debug\Order Monato.csprojAssemblyReference.cache
